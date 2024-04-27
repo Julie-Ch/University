@@ -1,1 +1,1 @@
-*** Repository generale per i miei progetti Universitari ***
+** Repository generale per i miei progetti Universitari **
